@@ -2,6 +2,8 @@
 
 This repository provides a high-performance LLM inference engine and "Dual-Brain" integration for the **Arduino Uno Q** (Qualcomm QRB2210 + STM32U585).
 
+![Project Logo](ArduinoUnoQ.jpeg)
+
 ## 🚀 Performance (SmolLM2-135M)
 Optimized on **NVIDIA DGX Spark** (Grace Blackwell) for the **Adreno 702 GPU**.
 - **Prompt Processing:** ~59.6 t/s
