@@ -1,0 +1,5 @@
+models/
+*.gguf
+*.bin
+.DS_Store
+build/
