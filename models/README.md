@@ -3,7 +3,7 @@
 Place your quantized `.gguf` files in this directory.
 
 ### Recommended Model
-Download the optimized weights for the Uno Q here:
+Download the latest optimized weights for the Uno Q here:
 [SmolLM2-135M-Instruct-ArduinoUnoQ-GGUF](https://huggingface.co/assix-research/SmolLM2-135M-Instruct-ArduinoUnoQ-GGUF)
 
 ### Execution Example
