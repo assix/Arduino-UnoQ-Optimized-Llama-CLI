@@ -1,8 +1,0 @@
-*.gguf
-*.bin
-*.out
-.DS_Store
-build/
-# Specifically ignore weights inside the models folder
-models/*.gguf
-models/*.bin
