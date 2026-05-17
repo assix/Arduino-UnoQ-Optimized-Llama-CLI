@@ -6,8 +6,8 @@ This repository provides a high-performance LLM inference engine and "Dual-Brain
 
 ## 🚀 Performance (SmolLM2-135M)
 Optimized on **NVIDIA DGX Spark** (Grace Blackwell) for the **Adreno 702 GPU**.
-- **Prompt Processing:** ~59.6 t/s
-- **Token Generation:** ~26.2 t/s
+- **Prompt Processing:** ~60 t/s
+- **Token Generation:** ~30 t/s
 
 ## 🧠 Dual-Brain Architecture
 This implementation utilizes the Uno Q's unique hybrid design:
