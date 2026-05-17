@@ -31,6 +31,8 @@ The optimized weights are hosted on Hugging Face:
    ``bash
    python3 mpu/bridge_orchestrator.py
    ``
+   or simply run 
+   ``./llama-cli -m ~/models/unoq_optimized.gguf``
 
 ![Llamacli-runtime](Llamacli-runtime.png)
 
