@@ -32,7 +32,7 @@ The optimized weights are hosted on Hugging Face:
    python3 mpu/bridge_orchestrator.py
    ``
 
-![Llamacli-runtime](Llamacli-runtime.jpeg)
+![Llamacli-runtime](Llamacli-runtime.png)
 
 ## License
 MIT
